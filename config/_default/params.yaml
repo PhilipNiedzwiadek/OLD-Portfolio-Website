@@ -83,7 +83,7 @@ privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
-  repo_branch: main
+  repo_branch: personal-website
   editable:
     page: false
     post: false
@@ -151,7 +151,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: personal-website
   local_backend: false
 icon:
   pack:
