@@ -91,10 +91,10 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
-  publication: true
-  event: true
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -123,11 +123,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
+    post: false
+    book: false
     project: true
-    publication: true
-    event: true
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
