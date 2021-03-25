@@ -20,7 +20,7 @@ role: Financial Planning & Analysis @ Conference Board of Canada
 interests:
 - Data Analysis & Modeling
 - Financial Performance Optimization
-- Pipeline Development
+#- Pipeline Development
 - Data Visualization and Dashboarding
 
 # Education to show in About widget
@@ -42,18 +42,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/PhilipNiedzwiadek
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/philip-niedzwiadek-a310b082
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
