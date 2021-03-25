@@ -48,9 +48,9 @@ social:
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Philip Niedzwiadek - CV.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/PhilipNiedzwiadek
@@ -73,7 +73,5 @@ email: ""
 highlight_name: false
 ---
 
-A Designated Accountant seeking data driven solutions for financial performance optimization with competencies in Excel, SQL and Python. 
+A Designated Accountant seeking data driven solutions for operational financial performance optimization with competencies in Excel, SQL and Python. A relentless pursuit of knowledge and operational excellents ignited by a world pandemic.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
