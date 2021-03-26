@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: Python
+- icon: python
   icon_pack: fab
   name: Python
 - icon: database
@@ -25,9 +25,6 @@ feature:
 - icon: windows
   icon_pack: fab
   name: Excel
-- icon: windows
-  icon_pack: fab
-  name: Photography
 - icon: journal-whills
   icon_pack: fas
   name: Finacial Reporting
