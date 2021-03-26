@@ -19,10 +19,10 @@ item:
     #content: 'Professional Accountant'
     # Choose `center`, `left`, or `right` alignment.
     align: center
+    overlay_img: Sedona.jpg  # Image path relative to your `assets/media/` folder
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#666'  # An HTML color value.
-    overlay_img: Sedona.jpg  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.0  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
