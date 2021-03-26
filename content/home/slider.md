@@ -15,7 +15,7 @@ height: 300px
 
 
 item:
-  -  title: Professional Accountant
+  - title: Professional Accountant
     #content: 'Professional Accountant'
     # Choose `center`, `left`, or `right` alignment.
     align: center
@@ -31,7 +31,7 @@ item:
     # cta_url: 'https://example.org'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
-  -  title: 'Amateur Programmer'
+  - title: 'Amateur Programmer'
     #content: 'Amateur Programmer'
     align: left
     overlay_color: '#555'
