@@ -6,12 +6,12 @@ title: Philip Niedzwiadek
 superuser: true
 
 # Role/position/tagline
-role: Financial Planning & Analysis @ Conference Board of Canada
+role: Financial Planning & Analysis 
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#- name: Stanford University
-#  url: https://www.stanford.edu/
+organizations:
+- name: @ The Conference Board of Canada
+- url: https://www.conferenceboard.ca/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
