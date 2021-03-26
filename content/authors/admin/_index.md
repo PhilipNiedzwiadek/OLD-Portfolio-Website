@@ -9,8 +9,8 @@ superuser: true
 role: Financial Planning & Analysis 
 
 # Organizations/Affiliations to show in About widget
-- organizations:
-  name: @ The Conference Board of Canada
+organizations:
+- name: @ The Conference Board of Canada
   url: https://www.conferenceboard.ca/
 
 # Short bio (displayed in user profile at end of posts)
