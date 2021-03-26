@@ -6,11 +6,11 @@ title: Philip Niedzwiadek
 superuser: true
 
 # Role/position/tagline
-role: Financial Planning & Analysis
+role: Financial Planning & Analysis @
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  @ The Conference Board of Canada
+- name:  The Conference Board of Canada
   url: https://conferenceboard.ca/
 
 # Short bio (displayed in user profile at end of posts)
