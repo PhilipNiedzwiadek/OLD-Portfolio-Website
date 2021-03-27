@@ -1,8 +1,7 @@
 ---
 widget: slider
-headless: true
-weight: 10
 interval: 6000
+active: true
 height: 500px
 item:
   - title: Professional Accountant
@@ -19,6 +18,8 @@ item:
     overlay_img: ""
     overlay_filter: 0.5
 widget_id: slider
+headless: true
+weight: 10
 design:
   background:
     image: /assets/media/Sedona.jpg
