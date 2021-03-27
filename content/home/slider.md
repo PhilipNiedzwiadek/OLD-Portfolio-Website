@@ -20,7 +20,7 @@ item:
 widget_id: slider
 headless: true
 weight: 10
-design:
-  background:
-    image: assets/media/sedona.jpg
+#design:
+#  background:
+#    image: assets/media/sedona.jpg
 ---
