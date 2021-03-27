@@ -7,6 +7,7 @@ item:
   - title: Professional Accountant
     align: center
     overlay_img: sedona.JPG
+    overlay_filter: 0
   - title: Amateur Programmer
     align: left
     overlay_color: "#555"
