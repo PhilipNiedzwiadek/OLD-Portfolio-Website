@@ -6,7 +6,7 @@ height: 500px
 item:
   - title: Professional Accountant
     align: center
-    overlay_img: Sedona.jpg
+    overlay_img: sedona.JPG
   - title: Amateur Programmer
     align: left
     overlay_color: "#555"
@@ -22,5 +22,5 @@ headless: true
 weight: 10
 design:
   background:
-    image: /assets/media/Sedona.jpg
+    image: assets/media/sedona.jpg
 ---
