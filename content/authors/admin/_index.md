@@ -17,7 +17,7 @@ social:
     link: https://github.com/PhilipNiedzwiadek
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/philip-niedzwiadek-a310b082
+    link: https://linkedin.com/in/philip-niedzwiadek-a310b082
 organizations:
   - name: The Conference Board of Canada
     url: https://conferenceboard.ca/
@@ -34,5 +34,5 @@ superuser: true
 highlight_name: false
 ---
 
-A Designated Accountant seeking data driven solutions for operational financial performance optimization with competencies in Excel, SQL and Python. A relentless pursuit of knowledge and operational excellents ignited by a world pandemic.
+A Designated Accountant seeking data driven solutions for operational financial performance optimization with competencies in Excel, SQL and Python. A relentless pursuit of knowledge and operational excellence ignited by a world pandemic.
 
