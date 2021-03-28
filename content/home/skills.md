@@ -24,10 +24,10 @@ feature:
   name: SQL
 - icon: windows
   icon_pack: fab
-  name: Excel
+  name: Advanced Excel
 - icon: journal-whills
   icon_pack: fas
-  name: Finacial Reporting
+  name: Finacial Reporting & Analysis
 - icon: chart-line
   icon_pack: fas
   name: Performance Management
