@@ -31,7 +31,7 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Performance Management
-- icon: stream
+- icon: raspberry-pi
   icon_pack: fas
   name: Basic Data Pipelines
   
