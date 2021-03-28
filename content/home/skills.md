@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Current Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -22,8 +22,8 @@ feature:
 - icon: database
   icon_pack: fas
   name: SQL
-- icon: windows
-  icon_pack: fab
+- icon: file-excel
+  icon_pack: fas
   name: Advanced Excel
 - icon: journal-whills
   icon_pack: fas
@@ -31,6 +31,9 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Performance Management
+- icon: stream
+  icon_pack: fas
+  name: Basic Data Pipelines
   
 
 # Uncomment to use emoji icons.
