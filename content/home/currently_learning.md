@@ -27,14 +27,13 @@ feature:
   name: Excel VBA
 - icon: percent
   icon_pack: fas
-  name: Statisic
-- icon: R-project
+  name: Statisics
+- icon: r-project
   icon_pack: fab
   name: R
-  
 - icon: stream
   icon_pack: fas
-  name: Basic Data Pipelines
+  name: Data Pipeline Development
   
 
 # Uncomment to use emoji icons.
