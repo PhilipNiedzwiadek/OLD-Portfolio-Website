@@ -32,7 +32,7 @@ feature:
   icon_pack: fas
   name: Performance Management
 - icon: raspberry-pi
-  icon_pack: fas
+  icon_pack: fab
   name: Basic Data Pipelines
   
 
