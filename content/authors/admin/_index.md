@@ -11,7 +11,7 @@ social:
     link: /#contact
   - icon: cv
     icon_pack: ai
-    link: media/Philip Niedzwiadek - CV.pdf
+    link: Philip Niedzwiadek - CV.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/PhilipNiedzwiadek
