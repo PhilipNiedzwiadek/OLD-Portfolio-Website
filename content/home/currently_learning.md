@@ -31,9 +31,9 @@ feature:
 - icon: r-project
   icon_pack: fab
   name: R
-- icon: stream
+- icon: fist-raised
   icon_pack: fas
-  name: Data Pipeline Development
+  name: High-Output MGMT
   
 
 # Uncomment to use emoji icons.
